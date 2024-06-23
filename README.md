@@ -28,10 +28,10 @@ l’ordre dans lequel les dés ont été tirés.
 
 ### Les combinaisons possibles
 Combinaison formée par les dés | Exemple | Règle à appliquer
- :---: | :---: | :---:
+ :--- | :---: | :---:
 2 dés identiques | Chouettes : 4 et 5 ; Cul : 4 | La Chouette
 La somme de 2 dés est égale au 3<sup>e</sup> | Chouettes : 2 et 3 ; Cul : 5 | La Velute
-La somme de 2 dés est égale au 3<sup>e</sup> et 2 dés sont identiques | Couettes : 2 et 4 ; Cul : 2 | La Chouette-Velute
+La somme de 2 dés est égale au 3<sup>e</sup> et 2 dés sont identiques | Chouettes : 2 et 4 ; Cul : 2 | La Chouette-Velute
 3 dés identiques | Chouettes : 4 et 4 ; Cul : 4 | Le Cul de Chouette
 Les 3 dés se suivent | Chouettes : 3 et 5 ; Cul : 4 | La Suite
 Autres combinaisons | Chouettes : 1 et 6 ; Cul : 4 | Le Néant
@@ -47,6 +47,7 @@ Autres combinaisons | Chouettes : 1 et 6 ; Cul : 4 | Le Néant
 #### La Bévue
 Lorsqu’un joueur commet une erreur, il perd 5 pts.
 Une Bévue peut être une mauvaise annonce, un joueur lançant les dés alors que ce n’est pas son tour, lancer les trois dés d’un coup ou le cul avant les chouettes, le non-respect d’une règle, etc.
+
 La Bévue est cumulable, et un joueur commettant plusieurs Bévues lors d’une même séquence de jeu perd 5 fois le nombre de Bévue qu’il a fait. 
 
 #### La Grelottine
